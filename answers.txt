@@ -3,3 +3,5 @@ Q1. Pros of Agile development as compared to non-Agile include greater opportuni
 Q2. The Scrum Master manages the scrum process for the developers, setting up and assigning JIRA tasks, leading developers through springs and scrum meetings, ensuring developers follow the scrum process, etc.  The Project Owner works with stakeholders to identify product issues and features, and controls the release of the product.
 
 Q3. The three types of meetings in scrum are the sprint planning (at the start of the sprint), the daily scrum/standup meeting (during the sprint), and the sprint retrospective (after the sprint).
+
+Q4. A story is simple feature request; a bug is a flaw in that feature or in general; a task is something to be done towards the resolution of any of these steps; an epic is an aegis over several stories or lesser steps.
