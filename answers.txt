@@ -1,1 +1,1 @@
-
+Q1. Pros of Agile development as compared to non-Agile include greater opportunity to incorporate user feedback (as compared to waterfall) and the constant presence opportunities in design, construction, and testing.  Cons include the danger of products remaining unfinished in perpetuity (as the cycle never ends) (though that isn't an issue for SaaS) and that overall timelines can be harder to form.
